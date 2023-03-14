@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "792226871349",
+    "project_id": "todolist-a6134",
+    "storage_bucket": "todolist-a6134.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792226871349:android:1971ff842f81948baf597c",
+        "android_client_info": {
+          "package_name": "com.pranav.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792226871349-j1is8ennri2m3935qmvvs2pi0keo3rud.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pranav.todo",
+            "certificate_hash": "3489085ad344c865d1b8afdf82867b3f15ca30b8"
+          }
+        },
+        {
+          "client_id": "792226871349-nmkrtv3if8qlfmcontum69eacq1jttdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGnRUY0BPk2Qcz9cklPEqwy0T3Xhd9FK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792226871349-3a9fke8mige43c6med19dpftuhqgojfa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
